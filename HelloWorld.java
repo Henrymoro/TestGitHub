@@ -18,6 +18,7 @@ public class HelloWorld
         // initialise instance variables
         x = 0;
         System.out.println("Hello World");
+        System.out.println("this sucks");
     }
 
     /**
